@@ -23,7 +23,6 @@ Aqui está uma lista de **módulos Python organizados por classes de funcionalid
 - **platform**: Identifica o sistema operacional e arquitetura, útil para adaptar scripts USB conforme o ambiente.
 - **pyusb**: Comunicação com dispositivos USB.
 - **opencv-python (cv2)**: Trabalho com câmeras e processamento de imagens.
-- **libusb**: Comunicação com dispositivos USB de baixo nível.
   
 ### **Teclado e Rato**
 - **pynput**: Controle e monitoramento de teclado e mouse.
