@@ -12,7 +12,7 @@ Aqui está uma lista de **módulos Python organizados por classes de funcionalid
 ---
 
 ## **2. Interação com Hardware**
-### **Câmaras e Dispositivos USB** [libusb.org.](https://libusb.info/) [ldesenvolver um módulo](https://github.com/0joseDark/modules/blob/main/make-module-USB.md) 
+### **Câmaras e Dispositivos USB** [libusb.org.](https://libusb.info/) [desenvolver um módulo](https://github.com/0joseDark/modules/blob/main/make-module-USB.md) 
 - **usbinfo**: Fornece informações detalhadas sobre dispositivos USB conectados.
 - **hid**: Focado em dispositivos HID (Human Interface Devices), como teclados, ratos e controladores de jogo.
 - **pyserial**: Usado para comunicação com dispositivos USB que emulam portas seriais (ex.: Arduino).
