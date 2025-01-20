@@ -25,12 +25,12 @@ Lista de módulos Python usados no Ubuntu Linux.
 
 ### **2. Redes e Comunicação**
 - **Rede e Protocolo**:
-  - `socket`
+  - `socket`      Done
   - `http.client`
   - `urllib`
   - `requests`
-  - `flask`
-  - `django`
+  - `flask`       Done
+  - `django`      Done
 
 - **Envio e Recebimento de Emails**:
   - `smtplib`
