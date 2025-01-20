@@ -191,5 +191,3 @@ Estas bases de dados não usam tabelas convencionais e geralmente armazenam os d
      for user in users.each():
          print(user.val())
      ```
-
-Se precisar de mais detalhes ou exemplos específicos, é só perguntar! 😊
