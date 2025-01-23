@@ -14,7 +14,7 @@ Here is a list of **Python modules organized by functionality classes** with a f
 ---
 
 ## **2. Hardware Interaction**
-### **Cameras and USB Devices** [libusb.org.](https://libusb.info/). [Create USB module](https://github.com/0joseDark/modules/blob/main/make-module-USB.md). [C/C++ Extensions](https://github.com/0joseDark/my-python-book/blob/main/doc-pt/Extensoes-C.md)
+### **Cameras and USB Devices** [libusb.org.](https://libusb.info/). [Create USB module](https://github.com/0joseDark/modules/blob/main/make-module-USB.md). [C/C++ Extensions](https://github.com/0joseDark/modules/blob/main/doc-en/Extensions-C.md)
 - **usbinfo**: Provides detailed information about connected USB devices.
 - **hid**: Focused on HID (Human Interface Devices), such as keyboards, mice, and game controllers.
 - **pyserial**: Used for communication with USB devices that emulate serial ports (e.g., Arduino).
