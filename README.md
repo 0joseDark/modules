@@ -1,4 +1,4 @@
-[modules](https://github.com/0joseDark/modules/tree/main/doc-pt)
+[doc pt modules](https://github.com/0joseDark/modules/tree/main/doc-pt)
 
 [linux ubuntu](https://github.com/0joseDark/modules/blob/main/doc-pt/linux-README.md)
 
