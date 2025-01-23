@@ -1,5 +1,5 @@
 # Modules
-[Linux Ubuntu](https://github.com/0joseDark/modules/blob/main/doc-pt/linux-README.md)
+[Linux Ubuntu](https://github.com/0joseDark/modules/blob/main/doc-en/linux.md)
 
 Here is a list of **Python modules organized by functionality classes** with a focus on use in **Windows 10**.
 ---
