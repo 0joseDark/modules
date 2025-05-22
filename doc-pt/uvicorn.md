@@ -1,4 +1,5 @@
-O Uvicorn é um servidor ASGI (Asynchronous Server Gateway Interface) rápido e leve, ideal para executar aplicações web baseadas em Python, especialmente aquelas criadas com frameworks como **FastAPI** e **Starlette**. Ele é amplamente usado para criar aplicações web modernas e eficientes. Vamos explorar como instalar, configurar e usar o Uvicorn no Windows 10, com exemplos e explicações passo a passo.
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O Uvicorn é um servidor ASGI (Asynchronous Server Gateway Interface) rápido e leve, ideal para executar aplicações web baseadas em Python, especialmente aquelas criadas com frameworks como **FastAPI** e **Starlette**. Ele é amplamente usado para criar aplicações web modernas e eficientes. Vamos explorar como instalar, configurar e usar o Uvicorn no Windows 10, com exemplos e explicações passo a passo.
 
 ---
 
