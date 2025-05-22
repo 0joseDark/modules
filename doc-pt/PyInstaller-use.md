@@ -1,4 +1,5 @@
-O **PyInstaller** é uma ferramenta poderosa que converte scripts Python em executáveis standalone para Windows, macOS e Linux. Ele inclui automaticamente todas as dependências necessárias, permitindo que o programa seja executado em sistemas que não tenham o Python instalado.
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O **PyInstaller** é uma ferramenta poderosa que converte scripts Python em executáveis standalone para Windows, macOS e Linux. Ele inclui automaticamente todas as dependências necessárias, permitindo que o programa seja executado em sistemas que não tenham o Python instalado.
 
 ---
 
