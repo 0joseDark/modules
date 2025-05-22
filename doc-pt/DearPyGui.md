@@ -1,5 +1,5 @@
-[voltar](https://github.com/0joseDark/modules/blob/main/README.md)
-**Dear PyGui**, um módulo Python para criar interfaces gráficas modernas e rápidas com aceleração por GPU. Ele funciona bem no **Windows 10** e **Ubuntu Linux**.
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- **Dear PyGui**, um módulo Python para criar interfaces gráficas modernas e rápidas com aceleração por GPU. Ele funciona bem no - **Windows 10** e **Ubuntu Linux**.
 
 ---
 
