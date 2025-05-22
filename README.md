@@ -10,7 +10,8 @@ Aqui está uma lista de **módulos Python organizados por classes de funcionalid
 ## **1. Interface Gráfica**
 - [**tkinter**](https://github.com/0joseDark/modules/blob/main/doc-pt/tkinter%2Cmd): Biblioteca padrão para criar interfaces gráficas.
 - [**customtkinter**](https://github.com/0joseDark/modules/blob/main/doc-pt/customtkinter.md) é uma biblioteca que estende o módulo padrão tkinter
-- [**PyQt5**](https://github.com/0joseDark/modules/blob/main/doc-pt/PyQt5.md) / [**PySide2**](https://github.com/0joseDark/modules/blob/main/doc-pt/Kivy.md): Frameworks poderosos para GUIs baseados em Qt.
+- [**PyQt5**](https://github.com/0joseDark/modules/blob/main/doc-pt/PyQt5.md)
+- [**PySide2**](https://github.com/0joseDark/modules/blob/main/doc-pt/Kivy.md): Frameworks poderosos para GUIs baseados em Qt.
 - [**Kivy**](https://github.com/0joseDark/modules/blob/main/doc-pt/Kivy.md): Para criar aplicativos móveis e de desktop multiplataforma.- 
 - [**wxPython**](https://github.com/0joseDark/modules/blob/main/doc-pt/wxPython.md): Biblioteca para GUIs nativas.
 - [**DearPyGui**](https://github.com/0joseDark/modules/blob/main/doc-pt/DearPyGui.md) : Interface gráfica moderna com suporte a DirectX.
@@ -19,7 +20,7 @@ Aqui está uma lista de **módulos Python organizados por classes de funcionalid
 ## **2. Interação com Hardware**
 ### **Câmaras e Dispositivos USB** [libusb.org.](https://libusb.info/). [fazer módulo usb](https://github.com/0joseDark/modules/blob/main/make-module-USB.md). [Extensões em C/C++](https://github.com/0joseDark/my-python-book/blob/main/doc-pt/Extensoes-C.md) - [__usbinfo__https://github.com/0joseDark/modules/blob/main/doc-pt/usbinfo.md) fornece informações detalhadas sobre dispositivos USB conectados.
 - **hid**: Focado em dispositivos HID (Human Interface Devices), como teclados, ratos e controladores de jogo.
-- **pyserial**: Usado para comunicação com dispositivos USB que emulam portas seriais (ex.: Arduino).
+- [**usbinfo**](https://github.com/0joseDark/modules/blob/main/doc-pt/usbinfo.md) fornece informações detalhadas sobre dispositivos USB conectados.
 - **libusb**: Biblioteca de baixo nível para comunicação direta com dispositivos USB. O Python pode usar esta biblioteca via pyusb.
 - **win32com**: Utilizado no Windows para interagir com dispositivos e componentes do sistema (ex.: dispositivos conectados via COM).
 - **subprocess**: Permite executar comandos do sistema para listar dispositivos USB (ex.: no Linux ou Windows).
