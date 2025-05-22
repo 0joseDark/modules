@@ -1,4 +1,5 @@
-O **Pyglet** é uma biblioteca em Python usada para criar aplicativos multimídia, com suporte para gráficos 2D, áudio e gerenciamento de eventos. É amplamente utilizada para criar jogos e visualizações interativas. A seguir, explicarei como instalar, usar e desenvolver exemplos básicos com o Pyglet.
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O **Pyglet** é uma biblioteca em Python usada para criar aplicativos multimídia, com suporte para gráficos 2D, áudio e gerenciamento de eventos. É amplamente utilizada para criar jogos e visualizações interativas. A seguir, explicarei como instalar, usar e desenvolver exemplos básicos com o Pyglet.
 
 ---
 
