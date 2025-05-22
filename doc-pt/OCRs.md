@@ -1,5 +1,5 @@
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
 ## **1. Tesseract OCR**
-
 ### **Descrição**
 Tesseract é um mecanismo de OCR desenvolvido originalmente pela HP e agora mantido pelo Google. Ele suporta várias línguas e pode ser usado para extrair texto de imagens.
 
