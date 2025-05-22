@@ -1,4 +1,5 @@
-O `libusb` é uma biblioteca C que fornece acesso genérico a dispositivos USB. Ela permite que programas controlem dispositivos USB sem a necessidade de drivers específicos. É multiplataforma (Windows, Linux, macOS, etc.).
+[voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O `libusb` é uma biblioteca C que fornece acesso genérico a dispositivos USB. Ela permite que programas controlem dispositivos USB sem a necessidade de drivers específicos. É multiplataforma (Windows, Linux, macOS, etc.).
 
 Neste guia, vamos:
 
