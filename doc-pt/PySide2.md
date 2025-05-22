@@ -1,4 +1,5 @@
-O módulo **PySide2** é o **binding oficial da Qt 5 para Python**, desenvolvido pela **Qt for Python**. Ele permite criar **interfaces gráficas (GUI)** ricas e modernas em Python, usando os recursos poderosos do **Qt Framework**, que é amplamente usado para desenvolver aplicações multiplataforma.
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O módulo **PySide2** é o **binding oficial da Qt 5 para Python**, desenvolvido pela **Qt for Python**. Ele permite criar **interfaces gráficas (GUI)** ricas e modernas em Python, usando os recursos poderosos do **Qt Framework**, que é amplamente usado para desenvolver aplicações multiplataforma.
 
 ---
 
