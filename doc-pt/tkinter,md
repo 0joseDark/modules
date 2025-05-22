@@ -1,4 +1,4 @@
-- [**volter**](https://github.com/0joseDark/modules/blob/main/README.md) 
+- [voltar](https://github.com/0joseDark/modules/blob/main/doc-pt/README.md)
 - O `tkinter` é um módulo **nativo do Python** usado para criar **interfaces gráficas (GUI)**. Ele fornece uma forma simples e eficaz de criar janelas, botões, menus, caixas de texto e outros elementos visuais. Funciona tanto no **Windows 10** quanto no **Ubuntu Linux**, com pequenas diferenças na instalação e comportamento visual.
 
 ---
