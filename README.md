@@ -13,8 +13,7 @@ Aqui está uma lista de **módulos Python organizados por classes de funcionalid
 - [**PyQt5**](https://github.com/0joseDark/modules/blob/main/doc-pt/PyQt5.md) / [**PySide2**](https://github.com/0joseDark/modules/blob/main/doc-pt/Kivy.md): Frameworks poderosos para GUIs baseados em Qt.
 - [**Kivy**](https://github.com/0joseDark/modules/blob/main/doc-pt/Kivy.md): Para criar aplicativos móveis e de desktop multiplataforma.- 
 - [**wxPython**](https://github.com/0joseDark/modules/blob/main/doc-pt/wxPython.md): Biblioteca para GUIs nativas.
-- **DearPyGui**: Interface gráfica moderna com suporte a DirectX.
-
+- [**DearPyGui**](https://github.com/0joseDark/modules/blob/main/doc-pt/DearPyGui.md) : Interface gráfica moderna com suporte a DirectX.
 ---
 
 ## **2. Interação com Hardware**
