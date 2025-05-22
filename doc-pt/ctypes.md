@@ -1,4 +1,5 @@
-O módulo `ctypes` em Python permite chamar funções de bibliotecas partilhadas (DLLs no Windows ou `.so` em Linux), além de manipular estruturas C, ponteiros e tipos de dados nativos de C.
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O módulo `ctypes` em Python permite chamar funções de bibliotecas partilhadas (DLLs no Windows ou `.so` em Linux), além de manipular estruturas C, ponteiros e tipos de dados nativos de C.
 
 ---
 
