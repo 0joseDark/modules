@@ -1,7 +1,4 @@
-Para criar e usar um ícone no seu programa em Python (especialmente para uma janela gráfica), siga estas etapas:
-
----
-
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
 ### **1. Criar o Arquivo do Ícone (.ico)**
 
 1. **Ferramentas Gráficas**:
