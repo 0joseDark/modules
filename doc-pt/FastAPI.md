@@ -1,4 +1,5 @@
-O **FastAPI** é um framework web rápido e moderno para Python, ideal para construir APIs de forma eficiente. Ele utiliza a tipagem do Python para facilitar a validação automática de dados e gerar documentação interativa automaticamente.
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O **FastAPI** é um framework web rápido e moderno para Python, ideal para construir APIs de forma eficiente. Ele utiliza a tipagem do Python para facilitar a validação automática de dados e gerar documentação interativa automaticamente.
 
 Aqui está um guia para começar com o FastAPI no Windows 10, incluindo exemplos.
 
