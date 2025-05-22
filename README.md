@@ -24,7 +24,7 @@ Aqui está uma lista de **módulos Python organizados por classes de funcionalid
 - [**libusb**](https://github.com/0joseDark/modules/blob/main/doc-pt/libusb.md): Biblioteca de baixo nível para comunicação direta com dispositivos USB. O Python pode usar esta biblioteca via pyusb.
 - [**win32com**](https://github.com/0joseDark/modules/blob/main/doc-pt/win32com.md): Utilizado no Windows para interagir com dispositivos e componentes do sistema (ex.: dispositivos conectados via COM).
 - [**subprocess**](https://github.com/0joseDark/modules/blob/main/doc-pt/subprocess.md): Permite executar comandos do sistema para listar dispositivos USB (ex.: no Linux ou Windows).
-- **ctypes**: Permite a interação com bibliotecas C para acessar funcionalidades de baixo nível, como USB.
+- [**ctypes**](https://github.com/0joseDark/modules/blob/main/doc-pt/ctypes.md): Permite a interação com bibliotecas C para acessar funcionalidades de baixo nível, como USB.
 - **platform**: Identifica o sistema operacional e arquitetura, útil para adaptar scripts USB conforme o ambiente.
 - **pyusb**: Comunicação com dispositivos USB.
 - **opencv-python (cv2)**: Trabalho com câmeras e processamento de imagens.
