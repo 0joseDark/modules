@@ -1,3 +1,4 @@
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
 1. **Extensões em C/C++**: Python permite criar extensões em C/C++ que podem ser chamadas diretamente de código Python. Isso é feito com ferramentas como **Cython**, **ctypes**, **cffi**, e **CPython API**.
 2. **Código Assembly**: É mais raro, mas podemos usar Assembly em Python de forma indireta ao incorporá-lo em bibliotecas C.
 
