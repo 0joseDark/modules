@@ -1,3 +1,5 @@
+- [**voltar**](https://github.com/0joseDark/modules/blob/main/README.md)
+---
 O módulo `usbinfo` em Python é usado para obter **informações sobre dispositivos USB conectados ao sistema**, como o nome do fabricante, número de série, ID do produto, e ID do fabricante. Ele é útil tanto no **Windows 10** como no **Ubuntu Linux**, embora haja algumas diferenças no funcionamento devido ao sistema operativo.
 
 ---
