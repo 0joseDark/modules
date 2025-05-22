@@ -1,4 +1,5 @@
-O módulo `subprocess` do Python permite **executar comandos do sistema operativo** (como se estivesse no terminal ou linha de comandos) e **interagir com os processos externos**: ler a saída, enviar entrada, tratar erros, etc.
+[voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O módulo `subprocess` do Python permite **executar comandos do sistema operativo** (como se estivesse no terminal ou linha de comandos) e **interagir com os processos externos**: ler a saída, enviar entrada, tratar erros, etc.
 
 Funciona tanto no **Windows 10** como no **Ubuntu Linux** — embora os **comandos que passamos possam variar** (por exemplo, `dir` no Windows e `ls` no Linux).
 
