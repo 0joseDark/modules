@@ -76,7 +76,7 @@ Aqui está uma lista de **módulos Python organizados por classes de funcionalid
 - **win32api / pywin32**: Para interagir com recursos específicos do Windows.
 - **schedule**: Automação de tarefas agendadas.
 - **subprocess**: Execução de comandos no sistema operacional.
-- **pyinstaller**: Empacotamento de scripts Python em executáveis.
+- [**pyinstaller**](https://github.com/0joseDark/modules/blob/main/doc-pt/PyInstaller-use.md) : Empacotamento de scripts Python em executáveis.
 
 ---
 
