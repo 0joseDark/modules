@@ -1,3 +1,4 @@
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
 ### Desenvolvimento com PyPDF2 no Windows 10
 
 O **PyPDF2** é uma biblioteca em Python para manipulação de ficheiros PDF. Ele permite ler, dividir, unir, rodar páginas e extrair texto de PDFs.
