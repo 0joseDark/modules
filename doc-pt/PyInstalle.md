@@ -1,3 +1,4 @@
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
 **PyInstaller** é um módulo Python que permite converter scripts `.py` em executáveis standalone (como `.exe` no Windows ou binários no Ubuntu/Linux), que funcionam mesmo sem o Python instalado na máquina.
 
 ---
