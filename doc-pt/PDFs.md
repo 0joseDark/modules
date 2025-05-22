@@ -1,3 +1,4 @@
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
 ### **1. PyPDF2**
 O **PyPDF2** é um dos módulos mais populares para manipular PDFs. Ele permite leitura, escrita, fusão e divisão de documentos PDF.
 
