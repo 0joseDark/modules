@@ -1,4 +1,5 @@
-O módulo `wxPython` é uma biblioteca para criar interfaces gráficas (GUIs) em Python, baseada na biblioteca C++ `wxWidgets`. Funciona em Windows, macOS e Linux (como Ubuntu). Vamos ver passo a passo como instalar e usar o `wxPython`, com um exemplo completo de uma aplicação GUI com botões, texto e eventos.
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O módulo `wxPython` é uma biblioteca para criar interfaces gráficas (GUIs) em Python, baseada na biblioteca C++ `wxWidgets`. Funciona em Windows, macOS e Linux (como Ubuntu). Vamos ver passo a passo como instalar e usar o `wxPython`, com um exemplo completo de uma aplicação GUI com botões, texto e eventos.
 
 ---
 
