@@ -1,4 +1,6 @@
-Para desenvolver um módulo de "Dispositivos USB" no contexto do seu projeto em Python, vamos seguir uma abordagem que envolve:
+[**voltar**](https://github.com/0joseDark/modules/blob/main/README.md)
+---
+- Para desenvolver um módulo de "Dispositivos USB" no contexto do seu projeto em Python, vamos seguir uma abordagem que envolve:
 
 1. **Explicação Geral de Módulos e Dispositivos USB em Python**  
 2. **Desenvolvimento do Módulo em Python**  
