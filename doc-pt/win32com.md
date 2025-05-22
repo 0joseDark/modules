@@ -1,4 +1,5 @@
-O módulo `win32com` é um componente da biblioteca `pywin32`, usada exclusivamente em sistemas **Windows**. Ele permite interagir com objetos **COM (Component Object Model)**, como o **Excel**, **Word**, **Outlook**, e outros componentes do Windows que suportam automação.
+[voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O módulo `win32com` é um componente da biblioteca `pywin32`, usada exclusivamente em sistemas **Windows**. Ele permite interagir com objetos **COM (Component Object Model)**, como o **Excel**, **Word**, **Outlook**, e outros componentes do Windows que suportam automação.
 
 ---
 
