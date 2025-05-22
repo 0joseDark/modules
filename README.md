@@ -9,6 +9,7 @@ Aqui está uma lista de **módulos Python organizados por classes de funcionalid
 
 ## **1. Interface Gráfica**
 - **tkinter**: Biblioteca padrão para criar interfaces gráficas.
+- **customtkinter** é uma biblioteca que estende o módulo padrão tkinter
 - **PyQt5 / PySide2**: Frameworks poderosos para GUIs baseados em Qt.
 - **Kivy**: Para criar aplicativos móveis e de desktop multiplataforma.
 - **wxPython**: Biblioteca para GUIs nativas.
