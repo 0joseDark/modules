@@ -1,3 +1,6 @@
+
+[voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+---
 O módulo **PyQt5** é um conjunto de *bindings* (ligações) em Python para a biblioteca **Qt5**, que é um framework C++ popular para desenvolver interfaces gráficas (GUI). Com PyQt5, pode criar janelas, botões, menus, caixas de texto, e muito mais — de forma multiplataforma, ou seja, o mesmo código pode correr em **Windows 10, Ubuntu Linux, macOS**, etc.
 
 ---
