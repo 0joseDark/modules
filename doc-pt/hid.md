@@ -1,4 +1,5 @@
-O módulo `hid` (do pacote `hidapi` ou `hid` em Python) permite comunicar com dispositivos **HID (Human Interface Devices)** como teclados, ratos, comandos de jogo, leitores de código de barras, controladores USB, entre outros. Funciona tanto no **Windows 10** como no **Ubuntu Linux** e é muito útil para comunicação USB de baixo nível.
+- [voltar](https://github.com/0joseDark/modules/blob/main/README.md)
+- O módulo `hid` (do pacote `hidapi` ou `hid` em Python) permite comunicar com dispositivos **HID (Human Interface Devices)** como teclados, ratos, comandos de jogo, leitores de código de barras, controladores USB, entre outros. Funciona tanto no **Windows 10** como no **Ubuntu Linux** e é muito útil para comunicação USB de baixo nível.
 
 ---
 
